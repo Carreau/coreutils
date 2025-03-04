@@ -22,6 +22,7 @@ on:
       - '*'
     branches:
       - main
+      - debug
 
 permissions:
   contents: read # to fetch code (actions/checkout)
